@@ -1,0 +1,3 @@
+[submodule "tthump"]
+	path = tthump
+	url = https://github.com/45Tatami/tthump.git
